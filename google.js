@@ -1,3 +1,8 @@
+//
+//       This is untested code for Google API
+//
+
+
 var auth2;
 var googleUser; // The current user
 
